@@ -6,13 +6,13 @@ useful-repositories
 
 ## Links
 
-[CoderSales/linux-on-windows](https://github.com/CoderSales/linux-on-windows)
+[linux-on-windows](https://github.com/linux-on-windows)
 
-[CoderSales/Common-Windows-Keyboard-Shortcuts](https://github.com/CoderSales/Common-Windows-Keyboard-Shortcuts)
+[Common-Windows-Keyboard-Shortcuts](https://github.com/Common-Windows-Keyboard-Shortcuts)
 
-[CoderSales/Visual-Studio-Code-Shortcuts](https://github.com/CoderSales/Visual-Studio-Code-Shortcuts)
+[Visual-Studio-Code-Shortcuts](https://github.com/Visual-Studio-Code-Shortcuts)
 
-[CoderSales/How-To-GitHub-Basically](https://github.com/CoderSales/How-To-GitHub-Basically)
+[How-To-GitHub-Basically](https://github.com/How-To-GitHub-Basically)
 
 ## Content with Citations
 
