@@ -14,6 +14,10 @@ useful-repositories
 
 [How To GitHub Basically](https://github.com/How-To-GitHub-Basically)
 
+### Optional
+
+[CoderSales/How-to-Setup-Visual-Studio-Code](https://github.com/CoderSales/How-to-Setup-Visual-Studio-Code)
+
 ## Content with Citations
 
 
