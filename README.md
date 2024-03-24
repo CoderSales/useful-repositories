@@ -16,7 +16,7 @@ useful-repositories
 
 ### Optional
 
-[CoderSales/How-to-Setup-Visual-Studio-Code](https://github.com/CoderSales/How-to-Setup-Visual-Studio-Code)
+[How to Setup Visual Studio Code](https://github.com/CoderSales/How-to-Setup-Visual-Studio-Code)
 
 ## Content with Citations
 
