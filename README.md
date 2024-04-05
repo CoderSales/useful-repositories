@@ -12,7 +12,10 @@ useful-repositories
 
 [Visual Studio Code Shortcuts](https://github.com/CoderSales/Visual-Studio-Code-Shortcuts)
 
+[IntelliJ-Keyboard-Shortcuts](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts)
+
 [How To GitHub Basically](https://github.com/CoderSales/How-To-GitHub-Basically)
+
 
 ## Content with Citations
 
