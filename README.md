@@ -16,6 +16,7 @@ useful-repositories
 
 [How To GitHub Basically](https://github.com/CoderSales/How-To-GitHub-Basically)
 
+[How-to-use-GitHub-with-IntelliJ](https://github.com/CoderSales/How-to-use-GitHub-with-IntelliJ)
 
 ## Content with Citations
 
